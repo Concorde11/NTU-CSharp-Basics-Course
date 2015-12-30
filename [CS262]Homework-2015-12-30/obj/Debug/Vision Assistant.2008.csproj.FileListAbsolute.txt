@@ -1,8 +1,0 @@
-E:\Dimension1\bin\Debug\VisionAssistantCode.exe
-E:\Dimension1\bin\Debug\VisionAssistantCode.pdb
-E:\Dimension1\obj\Debug\Vision Assistant.2008.csprojResolveAssemblyReference.cache
-E:\Dimension1\obj\Debug\Vision_Assistant.Form1.resources
-E:\Dimension1\obj\Debug\Vision_Assistant.Properties.Resources.resources
-E:\Dimension1\obj\Debug\Vision Assistant.2008.csproj.GenerateResource.Cache
-E:\Dimension1\obj\Debug\VisionAssistantCode.exe
-E:\Dimension1\obj\Debug\VisionAssistantCode.pdb
